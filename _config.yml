@@ -1,0 +1,8 @@
+title: Emmeth
+description: A free, open source bible software.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
